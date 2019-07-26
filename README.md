@@ -1,0 +1,2 @@
+# NamoPrivacyPolicy
+Privacy Policy
